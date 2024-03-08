@@ -4,6 +4,10 @@
 
 **Plan de proyecto**: https://docs.google.com/document/d/1FfjEPG1CfX_HmGuWRw_oTNgxXmxM77l_/edit?usp=sharing&ouid=107852408671937934771&rtpof=true&sd=true
 
+# 
+
+**Diagrama de arquitectura:** https://drive.google.com/file/d/1_9Cg5im9NVw1D_rcuvP1EnCSlB0GN-2c/view?usp=sharing
+
 #
 
 **SQAP:** https://docs.google.com/document/d/18ZiTB3dLQZNgl3ZNldu6QR1iyEfpJNQgoX7E9b8uC0g/edit
