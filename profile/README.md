@@ -14,4 +14,8 @@
 
 **Plan de pruebas de software:** https://docs.google.com/document/d/1nKGDS51DbpRMT_uqza-81HLt1s_J4pDT/edit?usp=sharing&ouid=107852408671937934771&rtpof=true&sd=true
 
+**Plan de revisiones de software:** https://docs.google.com/document/d/1-ByzzmY_OZ_pxNj21paCXfLYbsbYkaZk/edit?usp=sharing&ouid=116330412889472848346&rtpof=true&sd=true
+
 **Matriz de riesgos:** https://tecmx-my.sharepoint.com/:x:/g/personal/a01656898_tec_mx/EdYGitdXWn1HsfOYnDqT5WkBTcGI_Fi4qJr4laRWb_mu9Q?e=jhViM6
+
+
