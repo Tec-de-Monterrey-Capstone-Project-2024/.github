@@ -8,6 +8,8 @@
 
 **Diagrama de arquitectura:** https://drive.google.com/file/d/1_9Cg5im9NVw1D_rcuvP1EnCSlB0GN-2c/view?usp=sharing
 
+**Mockup de la aplicación web:** https://www.figma.com/team_invite/redeem/yc5ZY3YAJFmaPfZYTRcujP
+
 #
 
 **SQAP:** https://docs.google.com/document/d/18ZiTB3dLQZNgl3ZNldu6QR1iyEfpJNQgoX7E9b8uC0g/edit
