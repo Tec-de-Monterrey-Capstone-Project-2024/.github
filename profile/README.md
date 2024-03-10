@@ -20,4 +20,6 @@
 
 **Matriz de riesgos:** https://tecmx-my.sharepoint.com/:x:/g/personal/a01656898_tec_mx/EdYGitdXWn1HsfOYnDqT5WkBTcGI_Fi4qJr4laRWb_mu9Q?e=jhViM6
 
+**Documento de solicitud de cambios:** [Change-Request-Template-ProjectManager-WLNK.docx](https://1drv.ms/w/s!Ajwz3cv4gwe1iYUnyzVvbzqcK5TqTg?e=g3RKge)https://1drv.ms/w/s!Ajwz3cv4gwe1iYUnyzVvbzqcK5TqTg?e=g3RKge
+
 
