@@ -24,4 +24,6 @@
 
 **Documento de solicitud de cambios:** [Change-Request-Template-ProjectManager-WLNK.docx](https://1drv.ms/w/s!Ajwz3cv4gwe1iYUnyzVvbzqcK5TqTg?e=g3RKge)https://1drv.ms/w/s!Ajwz3cv4gwe1iYUnyzVvbzqcK5TqTg?e=g3RKge
 
+**Cotización del proyecto:** https://tecmx-my.sharepoint.com/:x:/r/personal/a01656898_tec_mx/Documents/Investigaci%C3%B3n%20costos%20proyecto.xlsx?d=w2084e4be94a44043b4838922c99117b5&csf=1&web=1&e=ZYjJT2
+
 
