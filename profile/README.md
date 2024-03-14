@@ -6,8 +6,6 @@
 
 **Video AWS:** https://youtu.be/e1lLzArMiSQ
 
-**Video AWS:** https://youtu.be/e1lLzArMiSQ
-
 **Storytelling Animado:** https://youtu.be/j0ARNPJDJxs
 
 **Storytelling Live Action:** https://youtu.be/eJUc8CcR7ls
