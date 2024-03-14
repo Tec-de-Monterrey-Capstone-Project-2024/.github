@@ -12,6 +12,8 @@
 
 **Mockup de la aplicación web:** https://www.figma.com/team_invite/redeem/yc5ZY3YAJFmaPfZYTRcujP
 
+**Presentación grupal:** https://www.canva.com/design/DAF_bn1OxCI/urzuhG5ilZp5IoyksQ7oUA/edit?utm_content=DAF_bn1OxCI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 #
 
 **SQAP:** https://docs.google.com/document/d/18ZiTB3dLQZNgl3ZNldu6QR1iyEfpJNQgoX7E9b8uC0g/edit
