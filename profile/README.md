@@ -12,11 +12,9 @@
 
 # 
 
-**Tecnologías Utilizadas:** https://drive.google.com/file/d/1_9Cg5im9NVw1D_rcuvP1EnCSlB0GN-2c/view?usp=sharing
-
 **Diagramas UML:** https://drive.google.com/file/d/1_9Cg5im9NVw1D_rcuvP1EnCSlB0GN-2c/view?usp=sharing
 
-**Mockup de la aplicación web:** https://www.figma.com/team_invite/redeem/yc5ZY3YAJFmaPfZYTRcujP
+**WireFrames/Mockups:** https://www.figma.com/file/ou4TcjQewtlxr1YG6VgXM0/Interfaces-De-ConnectMate?type=design&node-id=0%3A1&mode=design&t=2KGk6B1ClOdQlSsr-1
 
 **Presentación grupal:** https://www.canva.com/design/DAF_bn1OxCI/urzuhG5ilZp5IoyksQ7oUA/edit?utm_content=DAF_bn1OxCI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
