@@ -16,6 +16,8 @@
 
 **WireFrames/Mockups:** https://www.figma.com/file/ou4TcjQewtlxr1YG6VgXM0/Interfaces-De-ConnectMate?type=design&node-id=0%3A1&mode=design&t=2KGk6B1ClOdQlSsr-1
 
+**Planeación de endpoints:** https://docs.google.com/document/d/1IFhRRo0sAr7G-AZ-el036AXBFqqCSGfExOpGmWNWzHk/edit?usp=sharing
+
 **Presentación grupal:** https://www.canva.com/design/DAF_bn1OxCI/urzuhG5ilZp5IoyksQ7oUA/edit?utm_content=DAF_bn1OxCI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 #
