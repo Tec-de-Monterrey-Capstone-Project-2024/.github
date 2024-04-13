@@ -1,5 +1,4 @@
 # Connectmate 
-(ImagenConnectMate)
 
 Welcome to our project's README. This initiative originated from the need for enhanced monitoring and management of agent activities within contact centers utilizing Amazon Connect, with an aim to elevate customer satisfaction scores. Our approach has been grounded in rigorous planning and a strategic work plan for the development of the application.
 
