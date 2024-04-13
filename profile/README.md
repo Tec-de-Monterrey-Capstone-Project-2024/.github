@@ -1,4 +1,50 @@
-## Documentos del equipo
+# Connectmate 
+(ImagenConnectMate)
+
+Welcome to our project's README. This initiative originated from the need for enhanced monitoring and management of agent activities within contact centers utilizing Amazon Connect, with an aim to elevate customer satisfaction scores. Our approach has been grounded in rigorous planning and a strategic work plan for the development of the application.
+
+The primary aim of this project is to provide contact center supervisors with a comprehensive tool that offers real-time insights into agent performance along with actionable recommendations to optimize contact center operations. This project plan serves as a critical guide to ensure the successful development and implementation of our application, aligning with customer needs and expectations, and significantly contributing to the ongoing enhancement of service quality.
+
+We encourage an open environment of transparency and collaboration. As you delve into our repository, we invite your feedback and participation in refining the contact center experience.
+
+## Project Satus
+
+🚧 Proyecto en construcción 🚧
+
+## 🔨 Scope 🔨
+
+- `Software Developement`
+- `Integration`
+- `Testing 3`
+- `Deployment`
+
+## 🤖 Used Technologies 🤖
+- Spring Boot
+- React
+- Amazon Cognito
+- AWS Fargate
+- MySQL
+- Amazon SageMaker
+- Amazon Bedrock
+- AWS Connect
+
+## Team Members
+
+- José Aram Méndez Gómez
+- Noemi Abigail Curiel
+- Luis Armando Mandujano Chávez
+- Julia Pastén Da Silva
+- Andrea Aguilar Ramírez
+- Ricardo Campos Luna
+- Federico Castro Zenteno
+- Luis Gerardo Magaña Yáñez
+- Moisés Arturo Badillo Álvarez
+- Pablo Sánchez Aguirre
+- Carolina González Salinas
+- Fernando Garcia Tejeda
+- Diego Esteban Zepeda Ceballos
+
+## Team Documents
 
 **SRS:** https://docs.google.com/document/d/1ezUqq3FjDcwUO1lhSi8C1f5yaD8OShRv/edit?usp=sharing&ouid=104113916288317840447&rtpof=true&sd=true
 
@@ -10,7 +56,7 @@
 
 **Storytelling Live Action:** https://youtu.be/eJUc8CcR7ls
 
-# 
+ 
 
 **Diagramas UML:** https://drive.google.com/file/d/1_9Cg5im9NVw1D_rcuvP1EnCSlB0GN-2c/view?usp=sharing
 
