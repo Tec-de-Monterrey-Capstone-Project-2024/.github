@@ -76,6 +76,7 @@ We encourage an open environment of transparency and collaboration. As you delve
 - **Cotización del proyecto:** https://tecmx-my.sharepoint.com/:x:/r/personal/a01656898_tec_mx/Documents/Investigaci%C3%B3n%20costos%20proyecto.xlsx?d=w2084e4be94a44043b4838922c99117b5&csf=1&web=1&e=ZYjJT2
 
 - **Documento de solicitud de cambios:** [Change-Request-Template-ProjectManager-WLNK.docx](https://1drv.ms/w/s!Ajwz3cv4gwe1iYUnyzVvbzqcK5TqTg?e=g3RKge)https://1drv.ms/w/s!Ajwz3cv4gwe1iYUnyzVvbzqcK5TqTg?e=g3RKge
+- **Contrato Interno de Trabajo en ConnectMate:** [https://docs.google.com/document/d/1dZd7tLcaH7uTt5I41K9AGt-9SI867Uz1/edit]
 
 
 
