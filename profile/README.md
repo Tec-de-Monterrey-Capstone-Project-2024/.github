@@ -23,8 +23,9 @@ We encourage an open environment of transparency and collaboration. As you delve
 - Amazon Cognito
 - AWS Fargate
 - MySQL
-- Amazon SageMaker
 - Amazon Bedrock
+- Amazon SNS
+- Amazon SES
 - AWS Connect
 
 ## Team Members
